@@ -17,7 +17,6 @@
         fill.color = [UIColor redColor];
         fill.colorBlendFactor = 1;
 //        [sknode addChild:fill];
-        
     }
     return self;
 }
