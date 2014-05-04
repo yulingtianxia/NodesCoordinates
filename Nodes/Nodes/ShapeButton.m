@@ -14,6 +14,7 @@
         SKShapeNode *shape = (SKShapeNode *)self.node;
         shape.path = CGPathCreateWithRect(CGRectMake(-50,-50, 100, 100), NULL);
         shape.strokeColor = [UIColor redColor];
+
     }
     return self;
 }
