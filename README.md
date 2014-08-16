@@ -1,4 +1,4 @@
-NodesCoordinates
+NodesCoordinates [![Build Status](https://travis-ci.org/yulingtianxia/NodesCoordinates.svg?branch=master)](https://travis-ci.org/yulingtianxia/NodesCoordinates)
 ================
 
 SpriteKit坐标系  
